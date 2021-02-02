@@ -1,0 +1,45 @@
+/* CSS files add styling rules to your content */
+
+html {
+    background-image: url("https://cdn.glitch.com/0efd2729-f6db-47a9-980b-5c90a88e182e%2Fbackgrou.jpg?v=1612271707849");
+  /*  background-color: #cccccc; */
+  }
+  
+  body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 2em;
+    text-align: center;
+  }
+  
+  h1 {
+    font-style: italic;
+    color: white;
+    text-align: center;
+   
+  }
+  
+  div {
+    margin: 0 auto; width: 550px;
+  }
+  blockquote {
+    float: right;
+    max-width: 1rem;
+     position: relative;
+     width: 550px;
+  }
+  iframe {
+    float: left;
+     position: relative;
+     margin-left: 50px; width: 500px; height: 500px;
+  }
+  
+  .youtube {
+    min-width: 70%;
+    position: centre;
+    text-align: center;
+  }
+  
+  .centre {
+    width: 600px; max-width: 1000px;  margin-left: 400px;
+  }
+  
